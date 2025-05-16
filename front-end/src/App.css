@@ -29,7 +29,7 @@
 
 #bottombar button {
   width: 50%;
-  height: 100%;
+  /* height: 100%; */
   margin: 0;
   padding: 0;
   position: relative;
@@ -44,4 +44,4 @@ body {
   padding: 0;
 }
 
-.playable { background-color: red;}
+.playable { background-color: blue;}
